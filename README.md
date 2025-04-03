@@ -1,1 +1,1 @@
-# 2BSIT-2-ScrumMaster
+# 2BSIT-2-Human Resource Management system
